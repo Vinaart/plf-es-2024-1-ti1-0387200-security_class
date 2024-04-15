@@ -5,12 +5,7 @@ Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 ## Alunos integrantes da equipe
 
 * Víctor Gabriel Cruz Pereira
-* Jonathan Sena da Silva
-* Luiza Lorys Silva Lima
-* Matheus Ferreira Titton
-* Rafael de Paiva Gomes
-* Vinícius Arthur Nascimento Macedo de Souza
-* Bruno Oliveira Pires
+
 ## Professores responsáveis
 
 * Diego Augusto de Faria Barros
