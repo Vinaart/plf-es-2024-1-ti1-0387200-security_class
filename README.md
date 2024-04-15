@@ -5,6 +5,7 @@ Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 ## Alunos integrantes da equipe
 
 * Víctor Gabriel Cruz Pereira
+* Matheus Ferreira Titton
 
 ## Professores responsáveis
 
